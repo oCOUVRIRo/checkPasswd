@@ -13,6 +13,7 @@ Desc
 
 Usage
 --
+在项目中引入jar包，调用****CheckPassword.checkPasswordInDic****方法
 ```Java
     public static void main(String[] args) {
 		String passwd = "2hAj5#mne-ix.86H";
@@ -22,7 +23,9 @@ Usage
 
 Download
 --
-[下载jar包](https://github.com/venshine/CheckPasswordStrength/blob/master/CheckPasswordStrength.jar)
+[下载jar包](http://raw.githubusercontent.com/oCOUVRIRo/checkPasswd/main/CheckPassword.jar)
+
+[下载源码](https://github.com/oCOUVRIRo/checkPasswd.git)
 
 About
 --
