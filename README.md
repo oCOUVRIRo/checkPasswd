@@ -5,7 +5,7 @@ CheckPassword是一个Java开源库，提供检测密码是否属于弱密码字
 Desc
 --
 #### Dictionary（字典）
-在****private static final String filePath =**** 中配置弱密码字典路径
+可修改文件****src/main/java/com/couvrir/checkpassword/CheckPassword.java****，在****private static final String filePath =**** 处配置弱密码字典路径
 
 #### 输出（是否属于弱密码字典）
 * **false : 不属于**
